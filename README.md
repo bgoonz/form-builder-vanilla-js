@@ -8,22 +8,3 @@
 
 [![bootstrap-form-builder-v4](https://i.imgur.com/cFqF7nY.png)](https://bloggify.github.io/bootstrap-form-builder)
 
-## :question: Get Help
-
-There are few ways to get help:
-
-1.  Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
-2.  For bug reports and feature requests, open issues. :bug:
-
-## :yum: How to contribute
-
-Have an idea? Found a bug? See [how to contribute][contributing].
-
-## :scroll: License
-
-[MIT][license] © [Bloggify][website]
-
-[license]: /LICENSE
-[website]: https://bloggify.org
-[contributing]: /CONTRIBUTING.md
-[docs]: /DOCUMENTATION.md
