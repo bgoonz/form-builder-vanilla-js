@@ -1,5 +1,5 @@
 body {
-  padding-top: 10px; /* 50px to make the container go all the way to the bottom of the topbar */
+  padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
   padding-bottom: 10px;
   position: relative;
 }
@@ -12,7 +12,7 @@ body {
 
 #components {
   min-height: 500px;
-  margin-top: 5px;
+margin-top:5px;
 }
 
 #target fieldset {
@@ -43,7 +43,7 @@ textarea {
   cursor: text;
 }
 
-.temp {
+.temp{
   width: 100%;
   height: 100%;
   background: transparent;
@@ -64,7 +64,7 @@ textarea {
   overflow: hidden;
 }
 
-#render {
+#render{
   min-height: 500px;
   font-family: monospace;
 }
@@ -84,12 +84,12 @@ form .popover form {
   width: 300px;
 }
 
-.popover-content form .btn {
+.popover-content form .btn{
   /* margin-right: 10px */
 }
 
-.target:after {
-  float: left;
+.target:after{
+  float:left;
   content: " ";
   height: 77px;
   margin-top: 3px;
@@ -98,24 +98,16 @@ form .popover form {
   border: 1px dashed #ccc;
 }
 
-#target,
-#input,
-#radioscheckboxes,
-#select,
-#buttons {
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+#target, #input, #radioscheckboxes, #select, #buttons {
+ -webkit-touch-callout: none;
+ -webkit-user-select: none;
+ -khtml-user-select: none;
+ -moz-user-select: none;
+ -ms-user-select: none;
+ user-select: none;
 }
 
-#target fieldset {
-  width: 100%;
-  overflow: hidden;
-}
-
-label {
-  font-weight: bold;
+#target fieldset{
+ width: 100%;
+ overflow: hidden;
 }

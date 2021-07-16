@@ -26,20 +26,7 @@
   "devDependencies": {
     "requirejs": "^2.3.5"
   },
-  "files": [
-    "bin/",
-    "app/",
-    "lib/",
-    "dist/",
-    "src/",
-    "scripts/",
-    "resources/",
-    "menu/",
-    "cli.js",
-    "index.js",
-    "bloggify.js",
-    "bloggify.json"
-  ],
+ 
   "blah": {
     "title": "Bootstrap v4 Form Builder",
     "ex_img": "https://i.imgur.com/cFqF7nY.png",
