@@ -507,11 +507,7 @@
       "buttonoptions": {
         "label": "Options",
         "type": "textarea-split",
-        "value": [
-          "Option one",
-          "Option two",
-          "Option three"
-        ]
+        "value": ["Option one", "Option two", "Option three"]
       },
       "required": {
         "label": "Required",

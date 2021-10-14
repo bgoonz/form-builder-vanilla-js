@@ -15,19 +15,13 @@
       "radios": {
         "label": "Radios",
         "type": "textarea-split",
-        "value": [
-          "Option one",
-          "Option two"
-        ]
+        "value": ["Option one", "Option two"]
       },
-		"radiosValues" :{
-			"label" : "Radios Values",
-			"type" : "textarea-split",
-			"value" :[
-				"1",
-				"2"
-			] 
-		}
+      "radiosValues": {
+        "label": "Radios Values",
+        "type": "textarea-split",
+        "value": ["1", "2"]
+      }
     }
   },
   {
@@ -46,23 +40,13 @@
       "radios": {
         "label": "Radios",
         "type": "textarea-split",
-        "value": [
-          1,
-          2,
-          3,
-          4
-        ]
+        "value": [1, 2, 3, 4]
       },
-		"radiosValues" :{
-			"label" : "Radios Values",
-			"type" : "textarea-split",
-			"value" :[
-				"1",
-				"2",
-				"3",
-				"4"
-			] 
-		}
+      "radiosValues": {
+        "label": "Radios Values",
+        "type": "textarea-split",
+        "value": ["1", "2", "3", "4"]
+      }
     }
   },
   {
@@ -81,19 +65,13 @@
       "checkboxes": {
         "label": "Checkboxes",
         "type": "textarea-split",
-        "value": [
-          "Option one",
-          "Option two"
-        ]
+        "value": ["Option one", "Option two"]
       },
-	  "checkboxesValues":{
-		"label" : "Checkboxes Values",
-		"type" : "textarea-split",
-		"value" : [
-			"1",
-			"2"
-		]		
-	  }
+      "checkboxesValues": {
+        "label": "Checkboxes Values",
+        "type": "textarea-split",
+        "value": ["1", "2"]
+      }
     }
   },
   {
@@ -112,23 +90,13 @@
       "checkboxes": {
         "label": "Checkboxes",
         "type": "textarea-split",
-        "value": [
-          1,
-          2,
-          3,
-          4
-        ]
+        "value": [1, 2, 3, 4]
       },
-	  "checkboxesValues":{
-		"label" : "Checkboxes Values",
-		"type" : "textarea-split",
-		"value" : [
-			"1",
-			"2",
-			"3",
-			"4"
-		]		
-	  }
+      "checkboxesValues": {
+        "label": "Checkboxes Values",
+        "type": "textarea-split",
+        "value": ["1", "2", "3", "4"]
+      }
     }
   }
 ]

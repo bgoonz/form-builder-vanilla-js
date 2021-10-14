@@ -7,4 +7,3 @@
 > A drag-and-drop form builder for Bootstrap 4.
 
 [![bootstrap-form-builder-v4](https://i.imgur.com/cFqF7nY.png)](https://bloggify.github.io/bootstrap-form-builder)
-
